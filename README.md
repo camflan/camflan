@@ -1,3 +1,5 @@
+<link rel="me" href="https://mas.to/@camflan" />
+
 ### Hi, I'm Camron 👋
 
 I'm a full-stack developer who is obsessed with details and great user interactions. Work with me at [🚀 Uplift](https://uplift.ltd)
