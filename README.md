@@ -4,6 +4,6 @@ I'm a full-stack developer who is obsessed with details and great user interacti
 
 Find me elsewhere,
 - [www](https://camronflanders.com)
-- <a rel="me" href="https://mas.to/@camflan">Mastodon</a>
+- <a rel="me nofollow" href="https://mas.to/@camflan">Mastodon</a>
 - [Flickr](https://flickr.com/camflan)
 
